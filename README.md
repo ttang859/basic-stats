@@ -21,7 +21,7 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 1. After building the project (i.e., running `ant compile`), run: `java -cp bin BasicStats`. The application's GUI will show up.
 
 #### Program features:
-* Displays a set of entered numbers.
+* Displays a group of entered values.
 * Computes the mean of the set of numbers.
 * Computes the median of the set of numbers.
 * Computes the mode of the set of numbers.
